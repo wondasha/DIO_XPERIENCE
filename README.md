@@ -33,9 +33,9 @@ Veja a pasta `/images` para acompanhar as principais etapas do processo em image
 - [Guia de Markdown no GitHub](https://guides.github.com/features/mastering-markdown/)
 
 ## 📝 Autor
-Nome: _[Seu Nome Aqui]_  
-Perfil DIO: _[Link para seu perfil na DIO]_  
-LinkedIn: _[Opcional]_
+Nome:Shalom Wonda
+Perfil DIO:https://www.dio.me/users/wondashalom360 
+www.linkedin.com/in/shalom-wonda-279715205
 
 
 Experiência DIO
